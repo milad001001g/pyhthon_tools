@@ -3,6 +3,7 @@ import sys
 
 walk_dir = sys.argv[1]
 
+#walk dir
 print('walk_dir = ' + walk_dir)
 
 # If your current working directory may change during script execution, it's recommended to
